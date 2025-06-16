@@ -1,0 +1,14 @@
+
+{
+  "name": "WhisperLite",
+  "short_name": "Whisper",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Your soft secret space",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }]
+}
